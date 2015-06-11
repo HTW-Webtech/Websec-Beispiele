@@ -1,2 +1,3 @@
 # Websec-Beispiele
-Beispiele häufiger Sicherheitslücken
+
+Beispielimplementierungen häufiger Sicherheitslücken.

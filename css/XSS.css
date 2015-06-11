@@ -1,0 +1,27 @@
+body { background-color: LightCyan; }
+
+img { max-width: 100%; }
+
+.container {
+   width: 400px;
+   margin-top: 50px;
+}
+
+.checkbox { padding-top: 7px; }
+
+.form-group label { display: none; }
+.has-error label { display: block; }
+
+
+.list-group-item { padding: 20px 30px 15px; }
+
+a.list-group-item h3 { font-weight: 300; }
+a.list-group-item {
+
+   -webkit-transition: 0.1s all;
+}
+a.list-group-item:hover {
+   -webkit-transform: scale(1.1);
+   z-index: 10;
+}
+.list-group-item.active { text-align: center; }
